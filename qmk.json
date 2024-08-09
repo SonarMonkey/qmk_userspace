@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["gmmk/gmmk2/p65/ansi", "via"]
+        ["gmmk/gmmk2/p65/ansi", "via"],
+        ["gmmk/pro/rev1/ansi", "default"]
     ]
 }
